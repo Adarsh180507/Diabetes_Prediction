@@ -44,7 +44,10 @@ This dataset is useful for exploring the relationships between lifestyle choices
 Multiple machine learning algorithms are tested to find the best-performing model
 
 ## Algorithms Used:
-Logistic Regression
-SVC
-KNN
-Random Forest Classifier
+* Logistic Regression
+  
+* SVC
+  
+* KNN
+  
+* Random Forest Classifier
